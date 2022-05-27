@@ -1,0 +1,6 @@
+scd30.c:45:6:readfirm	16	static
+scd30.c:58:6:altComp	24	static
+scd30.c:75:6:interRead	16	static
+scd30.c:111:6:triggerStart	16	static
+scd30.c:116:6:triggerStop	4	static
+scd30.c:138:6:odczyt	40	static
